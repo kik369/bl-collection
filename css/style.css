@@ -3824,7 +3824,7 @@ html:not([dir='rtl']) .noUi-horizontal .noUi-handle {
   height: 54px;
   background: #318bff;
   box-shadow: 0 1px rgba(0, 0, 0, 0.04), inset 0 -1px rgba(0, 0, 0, 0.04);
-  color: #3d464d;
+  color: #ffffff;
 }
 .nav-panel--stuck {
   z-index: 10;
